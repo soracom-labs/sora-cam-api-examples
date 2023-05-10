@@ -14,7 +14,7 @@ Google が提供している [Colaboratory](https://colab.research.google.com/)(
 
 ## 体験できる内容
 
-* 1.  API を使って制限5分以上の動画をダウンロードする
+1.  API を使って制限5分以上の動画をダウンロードする
  	-  [ガイドページ](https://users.soracom.io/ja-jp/guides/soracom-cloud-camera-services/api-examples-download-videos-longer-than-limits/)
 	-  [サンプルコード](https://github.com/soracom-labs/sora-cam-api-examples/tree/main/download_videos_longer_than_limits/)
 	- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/soracom-labs/sora-cam-api-examples/blob/master/download_videos_longer_than_limits/api_examples_download_videos_longer_than_limits.ipynb)
