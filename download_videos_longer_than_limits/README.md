@@ -1,4 +1,4 @@
-# Collection of code examples utilizing Soracom Cloud Camera Services API.
+# API を使って制限5分以上の動画をダウンロードする
 
 [Soracom Cloud Camera Services](https://soracom.jp/sora_cam/) (ソラコムクラウドカメラサービス。略称: ソラカメ) は、クラウドに常時録画した映像を API を使って操作できます。
 
@@ -14,9 +14,14 @@ Google が提供している [Colaboratory](https://colab.research.google.com/)(
 
 ## 体験できる内容
 
-1.  API を使って制限5分以上の動画をダウンロードする
-	-  [ガイドページ](https://users.soracom.io/ja-jp/guides/soracom-cloud-camera-services/api-examples-download-videos-longer-than-limits/)
-	-  [サンプルコード](https://github.com/soracom-labs/sora-cam-api-examples/tree/main/download_videos_longer_than_limits/)
+ユーザーコンソールで操作した場合、1 回の動画エクスポートは 5 分間の制限 があります。5 分を超える範囲をエクスポートするには、自分自身で 5 分間の単位に区切って、複数回エクスポートを行う必要があります。
+
+ここでは、API を使うことで 5 分を超える範囲を指定された場合でも、自動的に 5 分間の単位に区切って動画をエクスポートとしてダウンロードできます。また、複数個ある 5 分間の動画ファイルを 1 つのファイルとしてダウンロードできます。以下のステップに沿って体験できます。
+
+### API を使って制限5分以上の動画をダウンロードする
+
+-  [ガイドページ](https://users.soracom.io/ja-jp/guides/soracom-cloud-camera-services/api-examples-download-videos-longer-than-limits/)
+-  [サンプルコード](https://github.com/soracom-labs/sora-cam-api-examples/tree/main/download_videos_longer_than_limits/)
 
 ## 注意
 
