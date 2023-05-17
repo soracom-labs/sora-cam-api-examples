@@ -4,8 +4,10 @@
 
 たとえば、毎回決まって行うルーティーン作業をソラカメ対応カメラで撮影していて、その作業が 5 分以上になる場合、録画を後から確認する際、ユーザーコンソールだと複数回の手動操作が必要です。ここで説明する SORACOM API を使うことで、効果的に作業の自動化や省力化が行えます。
 
-ここでは、API を使ったサンプルコードを実行することで、上記の動作を体験できます。サンプルコードは、[Colaboratory](https://colab.research.google.com/)(以下、Colab) を使って実行します。
-### API を使って制限5分以上の動画をダウンロードする
+ここでは、API を使ったサンプルコードを実行することで、上記の動作を体験できます。サンプルコードは、[Colaboratory](https://colab.research.google.com/)(以下、Colab) を使って実行します。詳細はガイドページを参照してください。
+
+
+## API を使って制限5分以上の動画をダウンロードする
 - [ガイドページ](https://users.soracom.io/ja-jp/guides/soracom-cloud-camera-services/api-examples-download-videos-longer-than-limits/)
 - [サンプルコード](https://github.com/soracom-labs/sora-cam-api-examples/tree/main/download_videos_longer_than_limits/)
 -  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/soracom-labs/sora-cam-api-examples/blob/master/download_videos_longer_than_limits/api_examples_download_videos_longer_than_limits.ipynb)
