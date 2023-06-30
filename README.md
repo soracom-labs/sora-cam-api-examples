@@ -16,12 +16,12 @@ Google が提供している [Colaboratory](https://colab.research.google.com/) 
 
  - 15 分を超える動画を API でダウンロードする
  	-  [ガイドページ](https://users.soracom.io/ja-jp/guides/soracom-cloud-camera-services/api-examples-download-videos-longer-than-limits/)
-	-  [サンプルコード](https://github.com/soracom-labs/sora-cam-api-examples/tree/main/download_videos_longer_than_limits/)
-	- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/soracom-labs/sora-cam-api-examples/blob/master/download_videos_longer_than_limits/api_examples_download_videos_longer_than_limits.ipynb)
+	-  [サンプルコード](https://github.com/soracom-labs/sora-cam-api-examples/tree/main/download-videos-longer-than-limits/)
+	- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/soracom-labs/sora-cam-api-examples/blob/master/download-videos-longer-than-limits/api-examples-download-videos-longer-than-limits.ipynb)
 - タイムラプス動画を作成する
  	-  [ガイドページ](https://users.soracom.io/ja-jp/guides/soracom-cloud-camera-services/api-examples-creating-time-lapse-video/)
-	-  [サンプルコード](https://github.com/soracom-labs/sora-cam-api-examples/tree/main/creating_time_lapse_video/)
-	- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/soracom-labs/sora-cam-api-examples/blob/master/creating_time_lapse_video/api_examples_creating_time_lapse_video.ipynb)
+	-  [サンプルコード](https://github.com/soracom-labs/sora-cam-api-examples/tree/main/creating-time-lapse-video/)
+	- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/soracom-labs/sora-cam-api-examples/blob/master/creating-time-lapse-video/api-examples-creating-time-lapse-video.ipynb)
 
 ## 注意
 

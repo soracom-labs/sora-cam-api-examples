@@ -8,8 +8,8 @@
 
 ## コンテンツ
  -  [ガイドページ](https://users.soracom.io/ja-jp/guides/soracom-cloud-camera-services/api-examples-creating-time-lapse-video/)
--  [サンプルコード](https://github.com/soracom-labs/sora-cam-api-examples/tree/main/creating_time_lapse_video/)
-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/soracom-labs/sora-cam-api-examples/blob/master/creating_time_lapse_video/api_examples_creating_time_lapse_video.ipynb)
+-  [サンプルコード](https://github.com/soracom-labs/sora-cam-api-examples/tree/main/creating-time-lapse-video/)
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/soracom-labs/sora-cam-api-examples/blob/master/creating-time-lapse-video/api-examples-creating-time-lapse-video.ipynb)
 
 ## 注意
 
