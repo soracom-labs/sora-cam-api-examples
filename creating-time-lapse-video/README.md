@@ -4,7 +4,7 @@
 
 たとえば、定点観察のような変化が少ない場合には、変化の差分に気づきにくいことがあったり、1 時間ごとに 1 回確認する場合にはすべての範囲を再生する必要がないこともあります。 このような場合に一定間隔で取得した静止画からタイムラプス動画を作成することで、通常では視覚的に捉えにくい変化や長時間の視聴をせずに短時間での確認ができます。
 
-ここでは、API を使ったサンプルコードを実行することで、録画データから一定期間で取得した静止画を元に、タイムラプス動画の作成を体験できます。サンプルコードは、[Colaboratory](https://colab.research.google.com/) (以下、Colab) を使って実行します。内容の詳細はガイドページを参照してください。
+ここでは、[SORACOM API](https://users.soracom.io/ja-jp/tools/api/) (以下、API)  を使ったサンプルコードを実行することで、録画データから一定期間で取得した静止画を元に、タイムラプス動画の作成を体験できます。サンプルコードは、[Colaboratory](https://colab.research.google.com/) (以下、Colab) を使って実行します。内容の詳細はガイドページを参照してください。
 
 ## コンテンツ
  -  [ガイドページ](https://users.soracom.io/ja-jp/guides/soracom-cloud-camera-services/api-examples-creating-time-lapse-video/)
