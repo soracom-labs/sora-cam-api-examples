@@ -1,6 +1,6 @@
 # Collection of code examples utilizing Soracom Cloud Camera Services API.
 
-[Soracom Cloud Camera Services](https://soracom.jp/sora_cam/) (ソラコムクラウドカメラサービス。略称: ソラカメ) は、クラウドに録画した映像を API を使って操作できます。
+[Soracom Cloud Camera Services](https://soracom.jp/sora_cam/) (ソラコムクラウドカメラサービス。略称: ソラカメ) は、ソラカメ対応カメラでクラウドに録画した映像を [SORACOM API](https://users.soracom.io/ja-jp/tools/api/) (以下、API) を使って操作できます。
 
 Google が提供している [Colaboratory](https://colab.research.google.com/) (略称: Colab) を使って、実際に Python で API を使ったサンプルコードを実行できます。
 
@@ -8,9 +8,9 @@ Google が提供している [Colaboratory](https://colab.research.google.com/) 
 
 ## 体験について
 
-[Soracom Cloud Camera Services スタートガイド](https://users.soracom.io/ja-jp/guides/soracom-cloud-camera-services/) に [API の使いかた](https://users.soracom.io/ja-jp/guides/soracom-cloud-camera-services/about-api-examples/) というガイドページがあります。
+[Soracom Cloud Camera Services スタートガイド](https://users.soracom.io/ja-jp/guides/soracom-cloud-camera-services/) に [API の使いかた](https://users.soracom.io/ja-jp/guides/soracom-cloud-camera-services/about-api-examples/) というガイドページがあります。このページで、サンプルコードの利用準備や実行条件の確認を行なってください。
 
-体験できる内容ごとにガイドページがあるので、ガイドページに記載されている内容に沿って体験してください。
+体験できるサンプルコードごとにガイドページが用意されています。ガイドページに記載されている内容に沿って体験してください。
 
 ## コンテンツ
 
@@ -22,7 +22,7 @@ Google が提供している [Colaboratory](https://colab.research.google.com/) 
  	-  [ガイドページ](https://users.soracom.io/ja-jp/guides/soracom-cloud-camera-services/api-examples-creating-time-lapse-video/)
 	-  [サンプルコード](https://github.com/soracom-labs/sora-cam-api-examples/tree/main/creating-time-lapse-video/)
 	- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/soracom-labs/sora-cam-api-examples/blob/master/creating-time-lapse-video/api-examples-creating-time-lapse-video.ipynb)
-- イベント画像に物体検出をする
+- イベント画像に映っている物体を検出する
 	-  [ガイドページ](https://users.soracom.io/ja-jp/guides/soracom-cloud-camera-services/api-examples-object-detection-with-event-image/)
 	-  [サンプルコード](https://github.com/soracom-labs/sora-cam-api-examples/tree/main/object-detection-with-event-image/)
 	- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/soracom-labs/sora-cam-api-examples/blob/master/object-detection-with-event-image/api-examples-object-detection-with-event-image.ipynb)
