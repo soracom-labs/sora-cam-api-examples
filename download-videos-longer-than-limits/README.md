@@ -9,7 +9,7 @@
 ## コンテンツ
 - [ガイドページ](https://users.soracom.io/ja-jp/guides/soracom-cloud-camera-services/api-examples-download-videos-longer-than-limits/)
 - [サンプルコード](https://github.com/soracom-labs/sora-cam-api-examples/tree/main/download-videos-longer-than-limits/)
-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/soracom-labs/sora-cam-api-examples/blob/master/download-videos-longer-than-limits/api-examples-download-videos-longer-than-limits.ipynb)
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/soracom-labs/sora-cam-api-examples/blob/main/download-videos-longer-than-limits/api-examples-download-videos-longer-than-limits.ipynb)
 
 ## 注意
 
