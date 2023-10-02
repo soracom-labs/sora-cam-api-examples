@@ -17,15 +17,19 @@ Google が提供している [Colaboratory](https://colab.research.google.com/) 
  - 15 分を超える動画をダウンロードする
  	-  [ガイドページ](https://users.soracom.io/ja-jp/guides/soracom-cloud-camera-services/api-examples-download-videos-longer-than-limits/)
 	-  [サンプルコード](https://github.com/soracom-labs/sora-cam-api-examples/tree/main/download-videos-longer-than-limits/)
-	- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/soracom-labs/sora-cam-api-examples/blob/master/download-videos-longer-than-limits/api-examples-download-videos-longer-than-limits.ipynb)
+	- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/soracom-labs/sora-cam-api-examples/blob/main/download-videos-longer-than-limits/api-examples-download-videos-longer-than-limits.ipynb)
 - タイムラプス動画を作成する
  	-  [ガイドページ](https://users.soracom.io/ja-jp/guides/soracom-cloud-camera-services/api-examples-creating-time-lapse-video/)
 	-  [サンプルコード](https://github.com/soracom-labs/sora-cam-api-examples/tree/main/creating-time-lapse-video/)
-	- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/soracom-labs/sora-cam-api-examples/blob/master/creating-time-lapse-video/api-examples-creating-time-lapse-video.ipynb)
+	- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/soracom-labs/sora-cam-api-examples/blob/main/creating-time-lapse-video/api-examples-creating-time-lapse-video.ipynb)
 - イベント画像に映っている物体を検出する
 	-  [ガイドページ](https://users.soracom.io/ja-jp/guides/soracom-cloud-camera-services/api-examples-object-detection-with-event-image/)
 	-  [サンプルコード](https://github.com/soracom-labs/sora-cam-api-examples/tree/main/object-detection-with-event-image/)
-	- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/soracom-labs/sora-cam-api-examples/blob/master/object-detection-with-event-image/api-examples-object-detection-with-event-image.ipynb)
+	- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/soracom-labs/sora-cam-api-examples/blob/main/object-detection-with-event-image/api-examples-object-detection-with-event-image.ipynb)
+- イベント画像にキャプションを付ける
+	-  [ガイドページ](https://users.soracom.io/ja-jp/guides/soracom-cloud-camera-services/api-examples-add-caption-to-event-image/)
+	-  [サンプルコード](https://github.com/soracom-labs/sora-cam-api-examples/tree/main/add-caption-to-event-image/)
+	- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/soracom-labs/sora-cam-api-examples/blob/main/add-caption-to-event-image/api-examples-add-caption-to-event-image.ipynb)
 
 ## 注意
 

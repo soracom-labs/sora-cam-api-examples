@@ -9,7 +9,7 @@
 ## コンテンツ
  -  [ガイドページ](https://users.soracom.io/ja-jp/guides/soracom-cloud-camera-services/api-examples-object-detection-with-event-image/)
 -  [サンプルコード](https://github.com/soracom-labs/sora-cam-api-examples/tree/main/object-detection-with-event-image/)
-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/soracom-labs/sora-cam-api-examples/blob/master/object-detection-with-event-image/api-examples-object-detection-with-event-image.ipynb)
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/soracom-labs/sora-cam-api-examples/blob/main/object-detection-with-event-image/api-examples-object-detection-with-event-image.ipynb)
 
 ## 注意
 
