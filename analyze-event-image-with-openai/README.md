@@ -12,7 +12,9 @@
 -  [サンプルコード](https://github.com/soracom-labs/sora-cam-api-examples/tree/main/analyze-event-image-with-openai/)
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/soracom-labs/sora-cam-api-examples/blob/main/analyze-event-image-with-openai/api-examples-analyze-event-image-with-openai.ipynb)
 
-## [!CAUTION] 注意
+[!CAUTION]
+
+## 注意
 
 - Colaboratory の利用には Google アカウントが必要です。
 - ソラコムは、Colaboratory に関するサポートを行いません。
