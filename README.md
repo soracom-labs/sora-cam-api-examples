@@ -8,7 +8,7 @@ Google が提供している [Colaboratory](https://colab.research.google.com/) 
 
 ## 体験について
 
-[Soracom Cloud Camera Services スタートガイド](https://users.soracom.io/ja-jp/docs/soracom-cloud-camera-services/) に [API の使いかた](https://users.soracom.io/ja-jp/docs/soracom-cloud-camera-services/about-api-examples/) というガイドページがあります。このページで、サンプルコードの利用準備や実行条件の確認を行なってください。
+Soracom Cloud Camera Services の [利用ガイド](https://users.soracom.io/ja-jp/docs/soracom-cloud-camera-services/) に [API の使いかた](https://users.soracom.io/ja-jp/docs/soracom-cloud-camera-services/about-api-examples/) というガイドページがあります。このページで、サンプルコードの利用準備や実行条件の確認を行なってください。
 
 体験できるサンプルコードごとにガイドページが用意されています。ガイドページに記載されている内容に沿って体験してください。
 
