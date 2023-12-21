@@ -12,7 +12,7 @@
 -  [サンプルコード](https://github.com/soracom-labs/sora-cam-api-examples/tree/main/analyze-event-image-with-openai/)
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/soracom-labs/sora-cam-api-examples/blob/main/analyze-event-image-with-openai/api-examples-analyze-event-image-with-openai.ipynb)
 
-## 注意
+## [!CAUTION] 注意
 
 - Colaboratory の利用には Google アカウントが必要です。
 - ソラコムは、Colaboratory に関するサポートを行いません。
@@ -25,5 +25,3 @@
 - サンプルコードを実行したことによる利用者自身、もしくは第三者が被った損害に対して、直接的、間接的を問わず、株式会社ソラコムは責任を負いかねます。
 - サンブルコード内でライブラリを明示的にインストールしている場合は、インストールしたライブラリのライセンスに準じますので、必ずライセンス確認をしてください。
 
-> [!CAUTION]
-> Negative potential consequences of an action.
