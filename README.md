@@ -1,6 +1,6 @@
 # Collection of code examples utilizing Soracom Cloud Camera Services API.
 
-[Soracom Cloud Camera Services](https://soracom.jp/sora_cam/) (ソラコムクラウドカメラサービス。略称: ソラカメ) は、ソラカメ対応カメラでクラウドに録画した映像を [SORACOM API](https://users.soracom.io/ja-jp/tools/api/) (以下、API) を使って操作できます。
+[Soracom Cloud Camera Services](https://soracom.jp/sora_cam/) (ソラコムクラウドカメラサービス。略称: [ソラカメ](https://sora-cam.com/)) は、ソラカメ対応カメラでクラウドに録画した映像を [SORACOM API](https://users.soracom.io/ja-jp/tools/api/) (以下、API) を使って操作できます。
 
 Google が提供している [Colaboratory](https://colab.research.google.com/) (略称: Colab) を使って、実際に Python で API を使ったサンプルコードを実行できます。
 
@@ -8,11 +8,14 @@ Google が提供している [Colaboratory](https://colab.research.google.com/) 
 
 ## 体験について
 
-[Soracom Cloud Camera Services スタートガイド](https://users.soracom.io/ja-jp/guides/soracom-cloud-camera-services/) に [API の使いかた](https://users.soracom.io/ja-jp/guides/soracom-cloud-camera-services/about-api-examples/) というガイドページがあります。このページで、サンプルコードの利用準備や実行条件の確認を行なってください。
+[Soracom Cloud Camera Services スタートガイド](https://users.soracom.io/ja-jp/docs/soracom-cloud-camera-services/) に [API の使いかた](https://users.soracom.io/ja-jp/docs/soracom-cloud-camera-services/about-api-examples/) というガイドページがあります。このページで、サンプルコードの利用準備や実行条件の確認を行なってください。
 
 体験できるサンプルコードごとにガイドページが用意されています。ガイドページに記載されている内容に沿って体験してください。
 
 ## コンテンツ
+
+> [!IMPORTANT]
+> サンプルコードの使用開始前に、ガイドページと注意点を必ず確認してください。
 
  - 15 分を超える動画をダウンロードする
  	-  [ガイドページ](https://users.soracom.io/ja-jp/guides/soracom-cloud-camera-services/api-examples-download-videos-longer-than-limits/)
@@ -34,9 +37,6 @@ Google が提供している [Colaboratory](https://colab.research.google.com/) 
 	- [ガイドページ](https://users.soracom.io/ja-jp/docs/soracom-cloud-camera-services/api-examples-analyze-event-image-with-openai/)
 	- [サンプルコード](https://github.com/soracom-labs/sora-cam-api-examples/tree/main/analyze-event-image-with-openai/)
 	- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/soracom-labs/sora-cam-api-examples/blob/main/analyze-event-image-with-openai/api-examples-analyze-event-image-with-openai.ipynb)
-
-> [!IMPORTANT]
-> サンプルコードの使用開始前に、ガイドページと注意点を必ず確認してください。
  
 ## 注意
 
