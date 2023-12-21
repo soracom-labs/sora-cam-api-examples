@@ -12,7 +12,8 @@
 -  [サンプルコード](https://github.com/soracom-labs/sora-cam-api-examples/tree/main/analyze-event-image-with-openai/)
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/soracom-labs/sora-cam-api-examples/blob/main/analyze-event-image-with-openai/api-examples-analyze-event-image-with-openai.ipynb)
 
-[!CAUTION]
+> [!CAUTION]
+> サンプルコードの使用開始前に、注意点とガイドページをご覧ください。
 
 ## 注意
 
