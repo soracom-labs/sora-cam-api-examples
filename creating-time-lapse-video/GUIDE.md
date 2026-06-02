@@ -1,5 +1,11 @@
 # タイムラプス動画を作成する
 
+> [!IMPORTANT]
+> このサンプルは、アーカイブ済みリポジトリ内の参照用コンテンツです。
+> このリポジトリの更新は終了しています。
+> ソラカメに関する最新情報は [sora-cam.com](https://sora-cam.com/) を確認してください。
+> SORACOM API、Google Colab、Python パッケージ、外部 API の変更により、ノートブックが動作しなくなる可能性があります。
+
 カメラを設置した場所の状況や経過を確認する場合、クラウドに録画された映像を [再生](https://users.soracom.io/ja-jp/docs/soracom-cloud-camera-services/watch-movie-stored-in-cloud/) したり、[画像を一覧表示](https://users.soracom.io/ja-jp/docs/soracom-cloud-camera-services/check-thumbnail-list/) したりして確認すると思いますが、カメラの数や確認頻度が多いと大変な作業です。
 
 たとえば、定点観察のような映像に変化が少ない場合は、すべての映像を再生して確認する方法では変化の差分に気づきにくいことがあります。また、1 時間ごとに 1 回確認するような場合は、すべての映像を再生する必要がないこともあります。
