@@ -2,9 +2,10 @@
 
 > [!IMPORTANT]
 > このドキュメントは、アーカイブ済みリポジトリ内の参照用コンテンツです。
-> このリポジトリの更新は終了しています。
-> ソラカメに関する最新情報は [sora-cam.com](https://sora-cam.com/) を確認してください。
-> SORACOM API、Google Colab、Python パッケージ、外部 API の変更により、ノートブックが動作しなくなる可能性があります。
+>
+> - このリポジトリの更新は終了しています。
+> - ソラカメに関する最新情報は [sora-cam.com](https://sora-cam.com/) を確認してください。
+> - SORACOM API、Google Colab、Python パッケージ、外部 API の変更により、ノートブックが動作しなくなる可能性があります。
 
 ソラカメ対応カメラでクラウドに [録画した映像](https://users.soracom.io/ja-jp/docs/soracom-cloud-camera-services/feature/#ソラカメ対応カメラで利用できる映像について) は [SORACOM API](https://users.soracom.io/ja-jp/tools/api/) (以下、API) を使って操作できます。
 

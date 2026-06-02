@@ -2,9 +2,10 @@
 
 > [!IMPORTANT]
 > このサンプルは、アーカイブ済みリポジトリ内の参照用コンテンツです。
-> このリポジトリの更新は終了しています。
-> ソラカメに関する最新情報は [sora-cam.com](https://sora-cam.com/) を確認してください。
-> SORACOM API、Google Colab、Python パッケージ、外部 API の変更により、ノートブックが動作しなくなる可能性があります。
+>
+> - このリポジトリの更新は終了しています。
+> - ソラカメに関する最新情報は [sora-cam.com](https://sora-cam.com/) を確認してください。
+> - SORACOM API、Google Colab、Python パッケージ、外部 API の変更により、ノートブックが動作しなくなる可能性があります。
 
 カメラを設置した場所の状況や経過を確認する場合、クラウドに録画された映像を [再生](https://users.soracom.io/ja-jp/docs/soracom-cloud-camera-services/watch-movie-stored-in-cloud/) したり、[画像を一覧表示](https://users.soracom.io/ja-jp/docs/soracom-cloud-camera-services/check-thumbnail-list/) したりして確認すると思いますが、カメラの数や確認頻度が多いと大変な作業です。
 

@@ -2,9 +2,10 @@
 
 > [!IMPORTANT]
 > このサンプルは、アーカイブ済みリポジトリ内の参照用コンテンツです。
-> このリポジトリの更新は終了しています。
-> ソラカメに関する最新情報は [sora-cam.com](https://sora-cam.com/) を確認してください。
-> SORACOM API、Google Colab、Python パッケージ、外部 API の変更により、ノートブックが動作しなくなる可能性があります。
+>
+> - このリポジトリの更新は終了しています。
+> - ソラカメに関する最新情報は [sora-cam.com](https://sora-cam.com/) を確認してください。
+> - SORACOM API、Google Colab、Python パッケージ、外部 API の変更により、ノートブックが動作しなくなる可能性があります。
 
 [ソラカメ](https://sora-cam.com/) 対応カメラはイベントを検知して、イベント発生時の画像や動画を [クラウドに保存](https://users.soracom.io/ja-jp/docs/soracom-cloud-camera-services/check-event/) します。このイベント発生時の画像や動画を活用することで、イベントがあった時の状況や内容を把握できます。
 

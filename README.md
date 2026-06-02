@@ -1,8 +1,11 @@
 > [!IMPORTANT]
-> このリポジトリはアーカイブ済みであり、現在はメンテナンスされていません。
-> サンプルコードと Colab ノートブックは参照用として残されていますが、このリポジトリの更新は終了しています。
-> ソラカメに関する最新情報は [sora-cam.com](https://sora-cam.com/) を確認してください。
-> SORACOM API、Google Colab、Python パッケージ、外部 API の変更により、ノートブックが動作しなくなる可能性があります。
+> このリポジトリはアーカイブ済みです。
+>
+> - 現在はメンテナンスされていません。
+> - このリポジトリの更新は終了しています。
+> - サンプルコードと Colab ノートブックは参照用として残されています。
+> - ソラカメに関する最新情報は [sora-cam.com](https://sora-cam.com/) を確認してください。
+> - SORACOM API、Google Colab、Python パッケージ、外部 API の変更により、ノートブックが動作しなくなる可能性があります。
 
 # Collection of code examples utilizing Soracom Cloud Camera Services API.
 
