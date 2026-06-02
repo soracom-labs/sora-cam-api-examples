@@ -7,7 +7,7 @@
 ここでは、[SORACOM API](https://users.soracom.io/ja-jp/tools/api/) (以下、API)  を使ったサンプルコードを実行することで、録画データから一定期間で取得した静止画を元に、タイムラプス動画の作成を体験できます。サンプルコードは、[Colaboratory](https://colab.research.google.com/) (以下、Colab) を使って実行します。内容の詳細はガイドページを参照してください。
 
 ## コンテンツ
- -  [ガイドページ](https://users.soracom.io/ja-jp/guides/soracom-cloud-camera-services/api-examples-creating-time-lapse-video/)
+ -  [ガイドページ](GUIDE.md)
 -  [サンプルコード](https://github.com/soracom-labs/sora-cam-api-examples/tree/main/creating-time-lapse-video/)
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/soracom-labs/sora-cam-api-examples/blob/main/creating-time-lapse-video/api-examples-creating-time-lapse-video.ipynb)
 

@@ -4,11 +4,11 @@
 
 Google が提供している [Colaboratory](https://colab.research.google.com/) (略称: Colab) を使って、実際に Python で API を使ったサンプルコードを実行できます。
 
-サンプルコードは、Colab ノートブック (Jupyter Notebook) 形式で提供され、合わせて用意されている [ガイドページ](https://users.soracom.io/ja-jp/guides/soracom-cloud-camera-services/about-api-examples/) に記載された内容に沿って操作していくことで API の使いかたを体験できます。
+サンプルコードは、Colab ノートブック (Jupyter Notebook) 形式で提供され、合わせて用意されている [ガイドページ](about-api-examples/README.md) に記載された内容に沿って操作していくことで API の使いかたを体験できます。
 
 ## 体験について
 
-Soracom Cloud Camera Services の [利用ガイド](https://users.soracom.io/ja-jp/docs/soracom-cloud-camera-services/) に [API の使いかた](https://users.soracom.io/ja-jp/docs/soracom-cloud-camera-services/about-api-examples/) というガイドページがあります。このページで、サンプルコードの利用準備や実行条件の確認を行なってください。
+[API の使いかたについて](about-api-examples/README.md) で、サンプルコードの利用準備や実行条件の確認を行なってください。
 
 体験できるサンプルコードごとにガイドページが用意されています。ガイドページに記載されている内容に沿って体験してください。
 
@@ -18,23 +18,23 @@ Soracom Cloud Camera Services の [利用ガイド](https://users.soracom.io/ja-
 > サンプルコードの使用開始前に、ガイドページと注意点を必ず確認してください。
 
  - 15 分を超える動画をダウンロードする
- 	-  [ガイドページ](https://users.soracom.io/ja-jp/guides/soracom-cloud-camera-services/api-examples-download-videos-longer-than-limits/)
+ 	-  [ガイドページ](download-videos-longer-than-limits/GUIDE.md)
 	-  [サンプルコード](https://github.com/soracom-labs/sora-cam-api-examples/tree/main/download-videos-longer-than-limits/)
 	- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/soracom-labs/sora-cam-api-examples/blob/main/download-videos-longer-than-limits/api-examples-download-videos-longer-than-limits.ipynb)
 - タイムラプス動画を作成する
- 	-  [ガイドページ](https://users.soracom.io/ja-jp/guides/soracom-cloud-camera-services/api-examples-creating-time-lapse-video/)
+ 	-  [ガイドページ](creating-time-lapse-video/GUIDE.md)
 	-  [サンプルコード](https://github.com/soracom-labs/sora-cam-api-examples/tree/main/creating-time-lapse-video/)
 	- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/soracom-labs/sora-cam-api-examples/blob/main/creating-time-lapse-video/api-examples-creating-time-lapse-video.ipynb)
 - イベント画像に映っている物体を検出する
-	-  [ガイドページ](https://users.soracom.io/ja-jp/guides/soracom-cloud-camera-services/api-examples-object-detection-with-event-image/)
+	-  [ガイドページ](object-detection-with-event-image/GUIDE.md)
 	-  [サンプルコード](https://github.com/soracom-labs/sora-cam-api-examples/tree/main/object-detection-with-event-image/)
 	- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/soracom-labs/sora-cam-api-examples/blob/main/object-detection-with-event-image/api-examples-object-detection-with-event-image.ipynb)
 - イベント画像にキャプションを付ける
-	-  [ガイドページ](https://users.soracom.io/ja-jp/guides/soracom-cloud-camera-services/api-examples-add-caption-to-event-image/)
+	-  [ガイドページ](add-caption-to-event-image/GUIDE.md)
 	-  [サンプルコード](https://github.com/soracom-labs/sora-cam-api-examples/tree/main/add-caption-to-event-image/)
 	- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/soracom-labs/sora-cam-api-examples/blob/main/add-caption-to-event-image/api-examples-add-caption-to-event-image.ipynb)
 - イベント画像を OpenAI で解析する
-	- [ガイドページ](https://users.soracom.io/ja-jp/docs/soracom-cloud-camera-services/api-examples-analyze-event-image-with-openai/)
+	- [ガイドページ](analyze-event-image-with-openai/GUIDE.md)
 	- [サンプルコード](https://github.com/soracom-labs/sora-cam-api-examples/tree/main/analyze-event-image-with-openai/)
 	- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/soracom-labs/sora-cam-api-examples/blob/main/analyze-event-image-with-openai/api-examples-analyze-event-image-with-openai.ipynb)
  
